@@ -13,12 +13,6 @@ This app was written following the BLoC Library [Counter Tutorial](https://blocl
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Notes](#notes)
-- [License](#license)
-- [Version History](#version)
-- [Contributing](#contributing)
-- [Questions](#questions)
-- [Acknowledgmenets](#acknowledgments)
 
 ## Installation
 
