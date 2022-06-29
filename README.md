@@ -5,7 +5,7 @@ Counter Flutter App using the Bloc library
 
 <hr>
 
-This app written with Flutter and leverages the [BLoC Library](https://bloclibrary.dev/#/) for observability of state changes
+This app is written with Flutter and leverages the [BLoC Library](https://bloclibrary.dev/#/) for observability of state changes
 
 This app was written following the BLoC Library [Counter Tutorial](https://bloclibrary.dev/#/fluttercountertutorial)
 
